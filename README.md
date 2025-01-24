@@ -3,17 +3,17 @@ Welcome to the Diamonds Card Game! This is a console-based card game where three
 
 Features
 
--- 🎴 Banker creates a deck of 13 diamond cards.
+- 🎴 Banker creates a deck of 13 diamond cards.
 
--- 🃏 Players have their respective suits (♠️ Spades, ♥️ Hearts, and ♣️ Clubs).
+- 🃏 Players have their respective suits (♠️ Spades, ♥️ Hearts, and ♣️ Clubs).
 
--- 🔀 Cards are shuffled before each round.
+- 🔀 Cards are shuffled before each round.
 
---🏆 Points are awarded based on the diamond card displayed.
+-🏆 Points are awarded based on the diamond card displayed.
 
--- 🕹️ Players compete in 13 rounds, and the final winner is determined based on the total scores.
+- 🕹️ Players compete in 13 rounds, and the final winner is determined based on the total scores.
 
--- 🔄 Option to replay the game.
+- 🔄 Option to replay the game.
 
 How to Play
 
